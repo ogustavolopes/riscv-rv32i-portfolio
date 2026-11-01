@@ -1,4 +1,4 @@
-```markdown
+
 # Project 01: RISC-V RV32I Single-Cycle Processor
 
 ## Overview
