@@ -1,0 +1,6 @@
+*.log
+work/
+transcript
+*.wlf
+*.vcd
+xcelium.d/
